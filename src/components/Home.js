@@ -4,7 +4,7 @@ function App() {
         <aside id="fh5co-hero" className="js-fullheight">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/slider.jpg)'}}>
+              <li style={{backgroundImage: 'url(assets/images/slider.jpg)'}}>
                 <div className="overlay-gradient" />
                 <div className="container">
                   <div className="col-md-6 col-md-offset-3 col-md-pull-3 js-fullheight slider-text">
@@ -22,7 +22,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Scaler\ Machine.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Scaler\ Machine.jpg)'}}>
                     <div className="inner">
                       <p>
                       </p>
@@ -36,7 +36,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Suction\ Machine.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Suction\ Machine.jpg)'}}>
                     <div className="inner">
                       <p>
                       </p>
@@ -50,7 +50,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Diapex.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Diapex.jpg)'}}>
                     <div className="inner">
                       <p>
                       </p>

@@ -1,7 +1,7 @@
 function App() {
     return (
       <div>
-        <header id="fh5co-header" className="fh5co-cover fh5co-cover-sm" role="banner" style={{backgroundImage: 'url(images/img_bg_2.jpg)'}}>
+        <header id="fh5co-header" className="fh5co-cover fh5co-cover-sm" role="banner" style={{backgroundImage: 'url(assets/images/img_bg_2.jpg)'}}>
           <div className="overlay" />
           <div className="container">
             <div className="row">
@@ -34,7 +34,7 @@ function App() {
                   </div>
                 </div>
                 <div className="col-md-6">
-                  <img className="img-responsive" src="images/about-sider.jpg" alt="about" />
+                  <img className="img-responsive" src="assets/images/about-sider.jpg" alt="about" />
                 </div>
               </div>
             </div>

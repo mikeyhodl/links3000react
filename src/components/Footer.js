@@ -5,7 +5,7 @@ function App() {
         <div className="container">
           <div className="row row-pb-md">
             <div className="col-md-4 fh5co-widget">
-              <a href="./"> <img className="logo" src="/images/logo.png" width="150px" /></a>
+              <a href="./"> <img className="logo" src="assets/images/logo.png" width="150px" /></a>
               <br />
               <br />
               <p>We deal in the supply of medical and dental materials and equipments.</p>
