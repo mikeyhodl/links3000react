@@ -22,7 +22,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Scaler\ Machine.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Scaler%20Machine.jpg)'}}>
                     <div className="inner">
                       <p>
                       </p>
@@ -36,7 +36,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Suction\ Machine.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Suction%20Machine.jpg)'}}>
                     <div className="inner">
                       <p>
                       </p>

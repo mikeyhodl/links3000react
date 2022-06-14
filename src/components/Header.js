@@ -1,5 +1,10 @@
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
+import About from './About';
+import Contact from './Contact';
+import Home from './Home';
+import Product from './Product';
+
 function App() {
     return (
       <Router>
@@ -7,14 +12,14 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col-md-3 col-xs-2">
-              <a href="./"> <img className="logo" src="assets/images/logo.png" width="150px" /></a>
+              <Link to="/"> <img className="logo" src="assets/images/logo.png" width="150px" alt=''/></Link>
             </div>
             <div className="col-md-6 col-xs-6 text-center menu-1">
               <ul>
-                <li><a href="./">Home</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="product.html">Our Products</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
+                <li><Link to="/">Home</Link></li>
+                <li><Link to="/About">About Us</Link></li>
+                <li><Link to="/Product">Our Products</Link></li>
+                <li><Link to="/Contact">Contact Us</Link></li>
               </ul>
             </div>
             <div className="col-md-3 col-xs-4 text-right hidden-xs menu-2">
@@ -33,6 +38,12 @@ function App() {
           </div>
         </div>
       </nav>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="About" element={<About />} />
+        <Route path="Contact" element={<Contact />} />
+        <Route path="Product" element={<Product />} />
+      </Routes>
       </Router>
     );
   }
