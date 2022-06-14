@@ -1,7 +1,7 @@
 function App() {
     return (
       <div>
-        <header id="fh5co-header" className="fh5co-cover fh5co-cover-sm" role="banner" style={{backgroundImage: 'url(images/img_bg_2.jpg)'}}>
+        <header id="fh5co-header" className="fh5co-cover fh5co-cover-sm" role="banner" style={{backgroundImage: 'url(assets/images/img_bg_2.jpg)'}}>
           <div className="overlay" />
           <div className="container">
             <div className="row">
@@ -26,7 +26,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Scaler\ Machine.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Scaler\ Machine.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -42,7 +42,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Suction\ Machine.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Suction\ Machine.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -58,7 +58,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Diapex.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Diapex.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -76,7 +76,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Orthodontic\ Boxes.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Orthodontic\ Boxes.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -92,7 +92,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/ELSATIC\ TIES.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/ELSATIC\ TIES.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -108,7 +108,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/ORTHODONTIC\ BRACKETS.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/ORTHODONTIC\ BRACKETS.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -126,7 +126,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Crimping\ Pliers.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Crimping\ Pliers.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -142,7 +142,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/compressor.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/compressor.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -158,7 +158,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Compressor1.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Compressor1.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -176,7 +176,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Root\ Elevator.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Root\ Elevator.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -192,7 +192,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Separators.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Separators.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -208,7 +208,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Brass\ wire.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Brass\ wire.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -226,7 +226,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Root\ Elevator1.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Root\ Elevator1.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -242,7 +242,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Ss\ Archwires.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Ss\ Archwires.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -258,7 +258,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Amalgam-gun.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Amalgam-gun.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -276,7 +276,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Root\ elevator2.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Root\ elevator2.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -292,7 +292,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Bondable-Buccal-tubes.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Bondable-Buccal-tubes.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -308,7 +308,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Bondable\ Buccal\ tubes1.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Bondable\ Buccal\ tubes1.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -326,7 +326,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Gold\ chain.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Gold\ chain.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -342,7 +342,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Thermal\ niti\ wire.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Thermal\ niti\ wire.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -358,7 +358,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Bracket\ Remover.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Bracket\ Remover.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -376,7 +376,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/SPILL\ 1\ 3850\ SPILL\ 2.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/SPILL\ 1\ 3850\ SPILL\ 2.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -392,7 +392,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Power\ Chain.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Power\ Chain.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -408,7 +408,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Paper\ points.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Paper\ points.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -426,7 +426,7 @@ function App() {
             <div className="row">
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Diamond\ Disc.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Diamond\ Disc.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
@@ -442,7 +442,7 @@ function App() {
               </div>
               <div className="col-md-4 text-center animate-box">
                 <div className="product">
-                  <div className="product-grid" style={{backgroundImage: 'url(images/Dental\ Unit.jpg)'}}>
+                  <div className="product-grid" style={{backgroundImage: 'url(assets/images/Dental\ Unit.jpg)'}}>
                     <div className="inner">
                       <p>
                         <a href="single.html" className="icon"><i className="icon-shopping-cart" /></a>
